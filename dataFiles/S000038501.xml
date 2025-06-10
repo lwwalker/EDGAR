@@ -1,0 +1,1278 @@
+<?xml version="1.0" encoding="UTF-8"?><edgarSubmission xmlns="http://www.sec.gov/edgar/nport" xmlns:com="http://www.sec.gov/edgar/common" xmlns:ncom="http://www.sec.gov/edgar/nportcommon" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sec.gov/edgar/nport eis_NPORT_Filer.xsd">
+  <headerData>
+    <submissionType>NPORT-P</submissionType>
+    <isConfidential>false</isConfidential>
+    <filerInfo>
+
+      <filer>
+        <issuerCredentials>
+          <cik>0000836906</cik>
+          <ccc>XXXXXXXX</ccc>
+        </issuerCredentials>
+      </filer>
+
+
+      <seriesClassInfo>
+        <seriesId>S000038501</seriesId>
+        <classId>C000118815</classId>
+        <classId>C000118817</classId>
+        <classId>C000118816</classId>
+        <classId>C000118814</classId>
+      </seriesClassInfo>
+
+
+    </filerInfo>
+  </headerData>
+  <formData>
+    <genInfo>
+      <regName>VANGUARD MALVERN FUNDS</regName>
+      <regFileNumber>811-05628</regFileNumber>
+      <regCik>0000836906</regCik>
+      <regLei>549300EW16IGZDA38J20</regLei>
+      <regStreet1>100 Vanguard Boulevard</regStreet1>
+      <regCity>Malvern</regCity>
+      <regStateConditional regCountry="US" regState="US-PA"/>
+      <regZipOrPostalCode>19355</regZipOrPostalCode>
+      <regPhone>610-669-1000</regPhone>
+      <seriesName>VANGUARD SHORT-TERM INFLATION-PROTECTED SECURITIES INDEX FUND</seriesName>
+      <seriesId>S000038501</seriesId>
+      <seriesLei>TX6CG4TTV0FTLWSYWI43</seriesLei>
+      <repPdEnd>2025-09-30</repPdEnd>
+      <repPdDate>2025-03-31</repPdDate>
+      <isFinalFiling>N</isFinalFiling>
+    </genInfo>
+    <fundInfo>
+      <totAssets>57320517996.11</totAssets>
+      <totLiabs>85371450.49</totLiabs>
+      <netAssets>57235146545.62</netAssets>
+      <assetsAttrMiscSec>0.00000000</assetsAttrMiscSec>
+      <assetsInvested>0.00000000</assetsInvested>
+      <amtPayOneYrBanksBorr>0.00000000</amtPayOneYrBanksBorr>
+      <amtPayOneYrCtrldComp>0.00000000</amtPayOneYrCtrldComp>
+      <amtPayOneYrOthAffil>0.00000000</amtPayOneYrOthAffil>
+      <amtPayOneYrOther>0.00000000</amtPayOneYrOther>
+      <amtPayAftOneYrBanksBorr>0.00000000</amtPayAftOneYrBanksBorr>
+      <amtPayAftOneYrCtrldComp>0.00000000</amtPayAftOneYrCtrldComp>
+      <amtPayAftOneYrOthAffil>0.00000000</amtPayAftOneYrOthAffil>
+      <amtPayAftOneYrOther>0.00000000</amtPayAftOneYrOther>
+      <delayDeliv>0.00000000</delayDeliv>
+      <standByCommit>0.00000000</standByCommit>
+      <liquidPref>0.00000000</liquidPref>
+      <cshNotRptdInCorD>0.00000000</cshNotRptdInCorD>
+      <curMetrics>
+        <curMetric>
+          <curCd>USD</curCd>
+          <intrstRtRiskdv01 period10Yr="0.00000000" period1Yr="-5668236.61797512" period30Yr="0.00000000" period3Mon="-257686.19443095" period5Yr="-7702330.63217962"/>
+          <intrstRtRiskdv100 period10Yr="0.00000000" period1Yr="-562491079.01973710" period30Yr="0.00000000" period3Mon="-25687193.38631630" period5Yr="-758480138.56675910"/>
+        </curMetric>
+      </curMetrics>
+      <creditSprdRiskInvstGrade period10Yr="0.00000000" period1Yr="0.00000000" period30Yr="0.00000000" period3Mon="0.00000000" period5Yr="0.00000000"/>
+      <creditSprdRiskNonInvstGrade period10Yr="0.00000000" period1Yr="0.00000000" period30Yr="0.00000000" period3Mon="0.00000000" period5Yr="0.00000000"/>
+      <isNonCashCollateral>N</isNonCashCollateral>
+      <returnInfo>
+        <monthlyTotReturns>
+          <monthlyTotReturn classId="C000118815" rtn1="0.88843000" rtn2="1.14684000" rtn3="0.99210000"/>
+          <monthlyTotReturn classId="C000118817" rtn1="0.90722000" rtn2="1.14426000" rtn3="0.98101000"/>
+          <monthlyTotReturn classId="C000118816" rtn1="0.90535000" rtn2="1.14192000" rtn3="0.96371000"/>
+          <monthlyTotReturn classId="C000118814" rtn1="0.90610000" rtn2="1.14286000" rtn3="0.99798000"/>
+        </monthlyTotReturns>
+        <monthlyReturnCats>
+          <commodityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </commodityContracts>
+          <creditContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </creditContracts>
+          <equityContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </equityContracts>
+          <foreignExchgContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </foreignExchgContracts>
+          <interestRtContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="159046.69000000"/>
+            <mon2 netRealizedGain="240056.07000000" netUnrealizedAppr="-159046.69000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="159046.69000000"/>
+              <instrMon2 netRealizedGain="240056.07000000" netUnrealizedAppr="-159046.69000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </interestRtContracts>
+          <otherContracts>
+            <mon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <mon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            <forwardCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </forwardCategory>
+            <futureCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </futureCategory>
+            <optionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </optionCategory>
+            <swaptionCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swaptionCategory>
+            <swapCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </swapCategory>
+            <warrantCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </warrantCategory>
+            <otherCategory>
+              <instrMon1 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon2 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+              <instrMon3 netRealizedGain="0.00000000" netUnrealizedAppr="0.00000000"/>
+            </otherCategory>
+          </otherContracts>
+        </monthlyReturnCats>
+        <othMon1 netRealizedGain="-427046.29000000" netUnrealizedAppr="496200910.11000000"/>
+        <othMon2 netRealizedGain="188563.36000000" netUnrealizedAppr="581954788.23000000"/>
+        <othMon3 netRealizedGain="4910683.21000000" netUnrealizedAppr="153812828.38000000"/>
+      </returnInfo>
+      <mon1Flow redemption="654826887.75000000" reinvestment="0.02000000" sales="628101334.78001400"/>
+      <mon2Flow redemption="551615326.64000000" reinvestment="0.04000000" sales="1728525442.35999000"/>
+      <mon3Flow redemption="692942704.37000000" reinvestment="0.00000000" sales="814874536.36000100"/>
+
+
+    </fundInfo>
+    <invstOrSecs>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828ZJ2</cusip>
+        <identifiers>
+          <isin value="US912828ZJ22"/>
+        </identifiers>
+        <balance>2091499734.87000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2091499734.87000000</valUSD>
+        <pctVal>3.654222730438</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2025-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CDC2</cusip>
+        <identifiers>
+          <isin value="US91282CDC29"/>
+        </identifiers>
+        <balance>2737994249.63000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2715320234.75000000</valUSD>
+        <pctVal>4.744148305072</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828N71</cusip>
+        <identifiers>
+          <isin value="US912828N712"/>
+        </identifiers>
+        <balance>2405061607.89000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2402806862.63000000</valUSD>
+        <pctVal>4.198131755834</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.62500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CKL4</cusip>
+        <identifiers>
+          <isin value="US91282CKL45"/>
+        </identifiers>
+        <balance>2956622211.20000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>3043934960.87000000</valUSD>
+        <pctVal>5.318296788921</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828S50</cusip>
+        <identifiers>
+          <isin value="US912828S505"/>
+        </identifiers>
+        <balance>2426739142.83000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2414605447.12000000</valUSD>
+        <pctVal>4.218745985380</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-07-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CGW5</cusip>
+        <identifiers>
+          <isin value="US91282CGW55"/>
+        </identifiers>
+        <balance>2770055724.22000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2769190081.81000000</valUSD>
+        <pctVal>4.838268527193</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>1.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828Y38</cusip>
+        <identifiers>
+          <isin value="US912828Y388"/>
+        </identifiers>
+        <balance>2197303949.28000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2170524307.40000000</valUSD>
+        <pctVal>3.792292740388</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-07-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.75000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810PZ5</cusip>
+        <identifiers>
+          <isin value="US912810PZ57"/>
+        </identifiers>
+        <balance>969706801.74000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1011979957.63000000</valUSD>
+        <pctVal>1.768109315179</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CFR7</cusip>
+        <identifiers>
+          <isin value="US91282CFR79"/>
+        </identifiers>
+        <balance>2806641836.76000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2851811228.82000000</valUSD>
+        <pctVal>4.982622393649</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>1.62500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810PS1</cusip>
+        <identifiers>
+          <isin value="US912810PS15"/>
+        </identifiers>
+        <balance>1111766418.65000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1139386865.61000000</valUSD>
+        <pctVal>1.990711886623</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.37500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CLV1</cusip>
+        <identifiers>
+          <isin value="US91282CLV18"/>
+        </identifiers>
+        <balance>3041503110.36000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>3083799012.99000000</valUSD>
+        <pctVal>5.387946391527</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>1.62500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810PV4</cusip>
+        <identifiers>
+          <isin value="US912810PV44"/>
+        </identifiers>
+        <balance>1045295639.10000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1061791710.90000000</valUSD>
+        <pctVal>1.855139324320</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>1.75000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>9128285W6</cusip>
+        <identifiers>
+          <isin value="US9128285W63"/>
+        </identifiers>
+        <balance>1900002744.52000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1869127699.92000000</valUSD>
+        <pctVal>3.265699159921</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.87500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CCA7</cusip>
+        <identifiers>
+          <isin value="US91282CCA71"/>
+        </identifiers>
+        <balance>1979328959.57000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1965102532.67000000</valUSD>
+        <pctVal>3.433384294916</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>9128282L3</cusip>
+        <identifiers>
+          <isin value="US9128282L36"/>
+        </identifiers>
+        <balance>2487972555.15000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2458427881.06000000</valUSD>
+        <pctVal>4.295311586387</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-07-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.37500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>Vanguard Cmt Funds-Vanguard Market Liquidity Fund</name>
+        <lei>1I6HV0TLSTR3A4XQ6L78</lei>
+        <title>Vanguard Market Liquidity Fund</title>
+        <cusip>N/A</cusip>
+        <identifiers>
+          <other otherDesc="FAID" value="CMT001142"/>
+        </identifiers>
+        <balance>15503336.40000000</balance>
+        <units>NS</units>
+        <curCd>USD</curCd>
+        <valUSD>15501786.07000000</valUSD>
+        <pctVal>0.027084382596</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>STIV</assetCat>
+        <issuerCat>CORP</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>1</fairValLevel>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828V49</cusip>
+        <identifiers>
+          <isin value="US912828V491"/>
+        </identifiers>
+        <balance>2240045784.62000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2215895291.00000000</valUSD>
+        <pctVal>3.871563933594</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.37500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810FH6</cusip>
+        <identifiers>
+          <isin value="US912810FH69"/>
+        </identifiers>
+        <balance>1231822684.32000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1352695285.22000000</valUSD>
+        <pctVal>2.363399706056</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.87500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CJH5</cusip>
+        <identifiers>
+          <isin value="US91282CJH51"/>
+        </identifiers>
+        <balance>2852789435.36000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2970912747.92000000</valUSD>
+        <pctVal>5.190713970745</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.37500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CAQ4</cusip>
+        <identifiers>
+          <isin value="US91282CAQ42"/>
+        </identifiers>
+        <balance>2559950412.50000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2559550420.25000000</valUSD>
+        <pctVal>4.471990681826</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2025-10-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810FS2</cusip>
+        <identifiers>
+          <isin value="US912810FS25"/>
+        </identifiers>
+        <balance>1148921855.60000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1159513478.96000000</valUSD>
+        <pctVal>2.025876666596</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2026-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>2.00000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>9128283R9</cusip>
+        <identifiers>
+          <isin value="US9128283R96"/>
+        </identifiers>
+        <balance>2542141239.86000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2495667720.32000000</valUSD>
+        <pctVal>4.360376221507</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.50000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>9128287D6</cusip>
+        <identifiers>
+          <isin value="US9128287D64"/>
+        </identifiers>
+        <balance>2236679286.60000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2141969898.06000000</valUSD>
+        <pctVal>3.742403099034</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2029-07-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.25000000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828Z37</cusip>
+        <identifiers>
+          <isin value="US912828Z377"/>
+        </identifiers>
+        <balance>2527457543.55000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2376205006.18000000</valUSD>
+        <pctVal>4.151653572313</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2030-01-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912828XL9</cusip>
+        <identifiers>
+          <isin value="US912828XL95"/>
+        </identifiers>
+        <balance>2882650153.55000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2884451809.90000000</valUSD>
+        <pctVal>5.039651305165</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2025-07-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.37500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>91282CEJ6</cusip>
+        <identifiers>
+          <isin value="US91282CEJ62"/>
+        </identifiers>
+        <balance>2799187721.73000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>2745390832.70000000</valUSD>
+        <pctVal>4.796686998104</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2027-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>0.12500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+      <invstOrSec>
+        <name>United States Treasury Inflation Indexed Bonds</name>
+        <lei>254900HROIFWPRGM1V77</lei>
+        <title>TSY INFL IX N/B</title>
+        <cusip>912810FD5</cusip>
+        <identifiers>
+          <isin value="US912810FD55"/>
+        </identifiers>
+        <balance>1068463448.16000000</balance>
+        <units>PA</units>
+        <curCd>USD</curCd>
+        <valUSD>1144257574.01000000</valUSD>
+        <pctVal>1.999221882131</pctVal>
+        <payoffProfile>Long</payoffProfile>
+        <assetCat>SN</assetCat>
+        <issuerCat>UST</issuerCat>
+        <invCountry>US</invCountry>
+
+        <isRestrictedSec>N</isRestrictedSec>
+
+        <fairValLevel>2</fairValLevel>
+        <debtSec>
+          <maturityDt>2028-04-15</maturityDt>
+          <couponKind>Fixed</couponKind>
+          <annualizedRt>3.62500000</annualizedRt>
+          <isDefault>N</isDefault>
+          <areIntrstPmntsInArrs>N</areIntrstPmntsInArrs>
+          <isPaidKind>N</isPaidKind>
+        </debtSec>
+        <securityLending>
+          <isCashCollateral>N</isCashCollateral>
+          <isNonCashCollateral>N</isNonCashCollateral>
+          <isLoanByFund>N</isLoanByFund>
+        </securityLending>
+      </invstOrSec>
+    </invstOrSecs>
+    <signature>
+      <ncom:dateSigned>2025-05-28</ncom:dateSigned>
+      <ncom:nameOfApplicant>VANGUARD MALVERN FUNDS</ncom:nameOfApplicant>
+      <ncom:signature>Ashley Grim</ncom:signature>
+      <ncom:signerName>Ashley Grim</ncom:signerName>
+      <ncom:title>Treasurer</ncom:title>
+    </signature>
+  </formData>
+</edgarSubmission>
